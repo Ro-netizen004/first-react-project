@@ -1,4 +1,5 @@
 # React + Vite
+Link to site: https://reactfacts-first-react-project.netlify.app/
 This project is a simple React introduction app that demonstrates the fundamentals of building user interfaces with React.
 
 Learned how to create and export functional components in React

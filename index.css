@@ -44,3 +44,7 @@ li::marker{
     color: #61DAFB;
     font-size: 1.5rem;
 }
+
+img{
+    width:30px;
+}
