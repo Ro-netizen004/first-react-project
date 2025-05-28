@@ -1,0 +1,46 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #282d35;
+    background-image: url(./images/react-logo-half.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+    color: white;
+    text-align: left;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    background-color: #1f232a;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* subtle shadow */
+    padding: 1rem; /* optional: adds space inside header */
+    align-items: center;
+}
+
+.logo{
+    font-weight: bold;
+    color: #61DAFB;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-left: 6px;
+}
+
+main{
+    margin-left:31.5px;
+    padding-top:2rem;
+}
+
+main h1{
+    margin-bottom:40px;
+}
+
+li{
+    margin-bottom:15px;
+    margin-top:10px;
+}
+
+li::marker{
+    color: #61DAFB;
+    font-size: 1.5rem;
+}
